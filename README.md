@@ -1,168 +1,116 @@
-# ironbound-lab
-AI systems, protocols, frameworks and operator tools by Kevin Gilbert
-IRONBOUND LAB
-AI Systems, Operator Protocols, and Applied Frameworks by Kevin Gilbert
-🔥 Ironbound Lab
+Ironbound Frameworks
 
-A workspace dedicated to developing AI systems, operator protocols, and practical cognitive frameworks for stabilizing multi-model workflows.
+Author: Kevin Gilbert (2026)
+Purpose: A modular, role-based operator toolkit for building, testing, and stabilizing AI systems.
 
-Created by Kevin Gilbert, a blue-collar machinist turned AI systems operator specializing in drift-control, multi-agent orchestration, and structural thinking applied to generative AI.
+Ironbound provides:
 
-🧠 Core AI Frameworks
-1. Six-Demon Drift Architecture (v1.1)
+a unified drift-governance architecture
 
-A diagnostic model for identifying and correcting the six primary destabilization modes in AI:
+operator-level command structure
 
-Role Drift
+multi-model workflow templates
 
-Tone Drift
+debugging and recovery protocols
 
-Format Drift
+standardized stability tests
 
-Intent Drift
+The framework is designed for precision, predictability, and repeatability across GPT, Claude, Grok, and Gemini.
 
-Scope Drift
+Folder Overview
+internal-physics/
 
-Confidence Drift
+Core conceptual model defining:
 
-Used for long-form prompting, narrative consistency, and multi-model stability.
+cracks
 
-2. Seven Immutable Constraints
+pressure
 
-A governing ruleset ensuring AI clarity, consistency, and obedience during high-stakes work.
-
-Precedence order: 1 → 7
-Enforces:
-
-structural integrity
-
-logical continuity
-
-tone discipline
-
-instruction fidelity
-
-3. Ironbound Lockstep Protocol
-
-A multi-agent coordination method enabling several AI models to operate in synchronized roles without drift.
-
-Pipeline roles:
-
-GPT — Architect
-
-Claude — Logic Officer / Editor
-
-Grok — Stress Tester
-
-Gemini — Cross-Check & Polisher
-
-Built from real-world experimentation performed while operating industrial machinery — proving its resilience under pressure.
-
-4. Operator Role System
-
-A four-role workflow to stabilize complex sequences:
-
-Architect — designs
-
-Editor — enforces rules
-
-Stress Tester — finds failure modes
-
-Polisher — finalizes output
-
-⚙️ Applied Human Frameworks
-The Internal Physics of Being Alive
-
-A structural model describing human behavior using engineering concepts such as:
-
-pressure accumulation
+constraints
 
 load-bearing meaning
 
-distortion
+This serves as the theoretical foundation for understanding why instability emerges.
 
-access
+multi-model-workflows/
 
-cracking
+Executable workflows for:
 
-redistribution
+4-role GPT pipeline
 
-Used across:
+GPT/Claude alternating refinement
 
-narrative design
+multi-model stress test harness
 
-character psychology
+These templates make the system reproducible for any operator.
 
-trauma logic
+ironbound-ops/
 
-emotional pacing
+Operational tools for day-to-day work:
 
-personal recovery architecture
+operator-commands.md
 
-This is the backbone of TB’s storytelling and AI reasoning systems.
+operator-checklist.md
 
-🎬 Creative IP (Narrative Worlds & Series)
+operator-prompts.md
 
-These projects demonstrate how the above frameworks are applied to professional-grade storytelling:
+debugging-playbook.md
 
-Breaking the Pattern — grounded drama on loyalty, violence, and generational repair
+stability-tests.md
 
-The Load — prestige sci-fi about time, consequence, and irreversible choice
+This is the working surface of the framework.
 
-The Last Witness — anthology psychological thriller centered on truth-collapse events
+Core Principles
 
-The Prompt — socio-technical thriller exploring systems, corruption, and exposure
+1. Role-based execution
+Every task runs inside a defined role: Architect, Editor, Stress Tester, Polisher.
 
-🤖 Multi-Model AI Orchestration
+2. Constraint-first design
+Stability is enforced by constraints, not creativity.
 
-Ironbound Lab develops stable workflows across:
+3. Minimal-correction philosophy
+Fix the smallest broken section — never rewrite the whole system.
 
-GPT
+4. Drift governance
+All outputs are evaluated against the Six-Demon Architecture:
 
-Claude
+role
 
-Grok
+tone
 
-Gemini
+format
 
-Each model plays a defined role within the Ironbound Lockstep Protocol, enabling consistent, drift-free multi-agent production.
+intent
 
-🛠️ Tools & Current Stack
+scope
 
-GitHub
+confidence
 
-VS Code
+5. Multi-model alignment
+Different models must converge on the same meaning without cross-drift.
 
-GitHub Copilot
+Usage
 
-GPT-5.1
+Start with:
+APPLY: operator-checklist
 
-Claude 3
+Then run a workflow:
 
-Grok 2
+architect
 
-Gemini Advanced
+edit
 
-🚧 In Development
+stress test
 
-Automation scripts
+polish
 
-Custom REPL tools
+If instability occurs:
+CHECK: drift
 
-Operator-level documentation
+If failure escalates:
+SYSTEM RESET
 
-Public whitepapers (Six-Demon, Seven Constraints, Lockstep Protocol)
+Attribution
 
-Applied examples of Internal Physics in storytelling and AI workflows
-
-📞 Contact
-
-Kevin Gilbert
-📱 920-210-0421
-📧 gilbertkevin759@gmail.com
-
-For AI systems work, narrative development, or technical collaboration opportunities.
-
-🏷️ License
-
-All frameworks and documents are the intellectual property of Kevin Gilbert under the Gilbert Attribution License v1.1 (to be added).
+Ironbound Frameworks authored by Kevin Gilbert (2026).
+Released under the Gilbert Attribution License v1.1.
